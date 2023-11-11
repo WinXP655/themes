@@ -1,0 +1,111 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; High Contrast White - IDS_THEME_DISPLAYNAME_HCWHITE
+DisplayName=Blue Theme
+ThemeId={F825034F-F831-430C-BB5D-8AD24B227B7B}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+
+[Control Panel\Colors]
+ActiveBorder=0 128 255
+ActiveTitle=0 128 192
+AppWorkSpace=148 148 148
+Background=0 64 128
+ButtonAlternateFace=181 181 181
+ButtonDkShadow=64 64 64
+ButtonFace=223 223 223
+ButtonHilight=239 239 239
+ButtonLight=223 223 223
+ButtonShadow=148 148 148
+ButtonText=0 0 0
+GradientActiveTitle=0 64 128
+GradientInactiveTitle=0 0 128
+GrayText=148 148 148
+Hilight=0 128 192
+HilightText=255 255 255
+HotTrackingColor=0 0 225
+InactiveBorder=0 128 192
+InactiveTitleText=0 0 0
+InactiveTitle=0 99 147
+InfoText=0 0 0
+InfoWindow=225 225 225
+Menu=223 223 223
+MenuText=0 0 0
+Scrollbar=239 239 239
+TitleText=255 255 255
+Window=255 255 255
+WindowFrame=0 0 0
+WindowText=0 0 0
+
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+SizeAll=
+UpArrow=
+DefaultValue=
+Hand=
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=2
+
+[VisualStyles]
+Path=
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=4
+ColorizationColor=0X7F000000
+AutoColorization=0
+VisualStyleVersion=10
+AppMode=Light
+SystemMode=Light
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=По умолчанию
+[Sounds.A]
+SchemeName=По умолчанию
+[Sounds.W]
+SchemeName=+BB8EPg- +BEMEPAQ+BDsERwQwBD0EOARO-
+[Theme.A]
+DisplayName=Windows Classic
+[Theme.W]
+DisplayName=+BBoEOwQwBEEEQQQ4BEcENQRBBDoEMARP-
+[Control Panel\Desktop.A]
+[Control Panel\Desktop.W]
+Wallpaper=D:+AFw-Wallpapers+AFwEGgRABD4EOwQ4BDoEOA-.jpg

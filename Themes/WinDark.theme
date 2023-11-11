@@ -1,0 +1,114 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; High Contrast White - IDS_THEME_DISPLAYNAME_HCBLACK
+DisplayName=Windows Dark
+ThemeId={4095D9FE-40E9-40F6-8EB9-0256D88002F6}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+
+[Control Panel\Colors]
+AActiveBorder=85 85 85
+ActiveTitle=0 0 128
+AppWorkSpace=56 56 56
+Background=53 53 53
+ButtonAlternateFace=181 181 181
+ButtonDkShadow=64 64 64
+ButtonFace=85 85 85
+ButtonHilight=170 170 170
+ButtonLight=85 85 85
+ButtonShadow=56 56 56
+ButtonText=255 255 255
+GradientActiveTitle=0 0 0
+GradientInactiveTitle=0 0 0
+GrayText=81 81 81
+Hilight=255 255 255
+HilightText=0 0 0
+HotTrackingColor=173 173 173
+InactiveBorder=85 85 85
+InactiveTitleText=192 192 192
+InactiveTitle=56 56 56
+InfoText=192 192 192
+InfoWindow=0 0 0
+Menu=85 85 85
+MenuText=255 255 255
+Scrollbar=170 170 170
+TitleText=255 255 255
+Window=55 55 55
+WindowFrame=128 128 128
+WindowText=255 255 255
+
+[Control Panel\Cursors]
+Arrow=%SystemRoot%\cursors\arrow_r.cur
+Help=%SystemRoot%\cursors\help_r.cur
+AppStarting=%SystemRoot%\cursors\wait_r.cur
+Wait=%SystemRoot%\cursors\busy_r.cur
+NWPen=%SystemRoot%\cursors\pen_r.cur
+No=%SystemRoot%\cursors\no_r.cur
+SizeNS=%SystemRoot%\cursors\size4_r.cur
+SizeWE=%SystemRoot%\cursors\size3_r.cur
+Crosshair=%SystemRoot%\cursors\cross_r.cur
+IBeam=%SystemRoot%\cursors\beam_r.cur
+SizeNWSE=%SystemRoot%\cursors\size2_r.cur
+SizeNESW=%SystemRoot%\cursors\size1_r.cur
+SizeAll=%SystemRoot%\cursors\move_r.cur
+UpArrow=%SystemRoot%\cursors\up_r.cur
+DefaultValue=Черная
+Hand=
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=2
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3
+ColorizationColor=0XC4113A64
+AutoColorization=0
+VisualStyleVersion=10
+AppMode=Light
+SystemMode=Light
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=По умолчанию
+[Sounds.A]
+SchemeName=По умолчанию
+[Sounds.W]
+SchemeName=+BB8EPg- +BEMEPAQ+BDsERwQwBD0EOARO-
+[Theme.A]
+[Theme.W]
+DisplayName=Windows - +BCIEUQQ8BD0EMARP- +BDoEPgQ9BEIEQAQwBEEEQgQ9BDAETw- +BEIENQQ8BDA-
+[Control Panel\Desktop.A]
+[Control Panel\Desktop.W]
+Wallpaper=D:+AFw-Wallpapers+AFwEGgRABD4EOwQ4BDoEOA-.jpg
+[Control Panel\Cursors.A]
+DefaultValue=Черная
+[Control Panel\Cursors.W]
+DefaultValue=+BCcENQRABD0EMARP-
